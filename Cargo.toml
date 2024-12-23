@@ -1,5 +1,5 @@
 [package]
-name = "practice-control-flow"
+name = "practice-control-flow-01-fahr-to-celsius"
 version = "0.1.0"
 edition = "2021"
 
